@@ -4,7 +4,4 @@ This repository features my C# solutions to various HackerRank challenges, showc
 # Software Engineer-Hackerrank
 
 
-!Software Engineer](https://github.com/mirkoii/Software-Enginner-Certificate-Hackerrank/blob/main/certificate-se.png?raw=true)
-
-
-
+!Software Engineer](images/image.png)
